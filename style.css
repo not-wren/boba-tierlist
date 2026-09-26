@@ -1,5 +1,12 @@
+
+
+
 body{
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: peru;
 }
+.small {
+  font-size: 0.8em;
+}
+
